@@ -1,6 +1,6 @@
 # Cálculo do MDC
 
-Trabalho de APA com o objettivo de desenvolver o entendimento de funções iterativas e recursivas e de formas de
+Trabalho de APA com o objetivo de desenvolver o entendimento de funções iterativas e recursivas e de formas de
 análise de algoritmos.
 
 ## Estrutura de pasta
@@ -9,7 +9,7 @@ análise de algoritmos.
 - `src`: O codigo esta nesta pasta, na classe `Main.java`
 
 
-## Relatorio
+## Relatório
 
 ### Explicação
 Iterativa (fi): A função mdcIterativo usa um loop while para continuar dividindo a por b até que b se torne zero. O valor de a naquele ponto será o MDC.
